@@ -8,3 +8,18 @@ cat ~/.ssh/id_rsa.pub
 
 This is Shriram Prakash
 This is my second file
+<<<<<<< HEAD
+=======
+
+
+This is my third commit
+
+
+This is my latest commit
+
+This is my first commit in feature\test
+
+This is git/merge
+noo
+hiiii
+>>>>>>> origin/feature/test
